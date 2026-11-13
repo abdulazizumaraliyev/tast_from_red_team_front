@@ -1,0 +1,10 @@
+{
+  "description": "Tahlilchilar va mahsulot jamoalariga avtomobil ovozli assistenti suhbatlarini o‘rganish, muammolarni aniqlash va dalillarga asoslangan yaxshilanishlarni ustuvorlashtirishga yordam beradi.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
