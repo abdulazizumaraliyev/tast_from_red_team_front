@@ -14,3 +14,10 @@ logs/
 /.figma/design-context/
 /.plugins/
 /.opencode-skills/
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
+.DS_Store
+EOF
